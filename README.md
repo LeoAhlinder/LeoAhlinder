@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p>My skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,nodejs,react,express,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cs,python,nodejs,react,express,html,css,mysql)](https://skillicons.dev)
 
 
 ### Socials
